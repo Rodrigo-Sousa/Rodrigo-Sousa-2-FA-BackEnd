@@ -1,0 +1,16 @@
+/* Inserindo a cor de fundo */
+body {
+    background-color: #000000;
+}
+
+.conteudoLogin {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    margin: 10%;
+    padding: 20px;
+}
+
+.rotulo {
+    color: #ffffff;
+    font-weight: 500;
+}
